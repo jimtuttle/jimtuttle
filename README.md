@@ -20,4 +20,4 @@ I'm a librarian, IT manager, and software developer working in digital collectio
 * Managing the Library Systems Team responsible for storage, networking, and server infrastructure
 * Managing the Digital Library Development Team responsible for several systems including DSpace, Fedora/Samvera, Omeka, and the Digital Libraries Platform
 
-You can see my resume or [LinkedIn](https://www.linkedin.com/in/jjtuttle/) for more about what I do. 
+You can see my [resume](https://github.com/jimtuttle/jimtuttle/blob/main/Tuttle_James_resume.pdf), my current [position description](https://github.com/jimtuttle/jimtuttle/blob/main/TuttleJ%20PD%202020-2021.pdf), or my [LinkedIn](https://www.linkedin.com/in/jjtuttle/) for more about what I do. 
