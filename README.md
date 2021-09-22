@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a librarian, IT manager, and software developer working in digital collections, digital preservation, cloud service integration, and related areas.  In my current role as [Associate Director for Digital Libraires](https://guides.lib.vt.edu/prf.php?account_id=180770) at Virginia Tech I don't get a lot of time to actually develop software, but I do enjoy taking time when I can to work on things that my software engineers don't have time for.  I spend most of my time doing:
+* Product Owner for Digital Libraries Platform
+* Managing the Library Systems Team responsible for storage, networking, and server infrastructure
+* Managing the Digital Library Development Team responsible for several systems including DSpace, Fedora/Samvera, Omeka, and the Digital Libraries Platform
+
+You can see my resume or [LinkedIn](https://www.linkedin.com/in/jjtuttle/) for more about what I do. 
